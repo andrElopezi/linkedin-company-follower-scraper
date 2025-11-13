@@ -1,0 +1,10 @@
+{
+  "companyUrls": [
+    "https://www.linkedin.com/company/microsoft",
+    "https://www.linkedin.com/company/google"
+  ],
+  "proxy": {
+    "useApifyProxy": true,
+    "groups": ["RESIDENTIAL"]
+  }
+}
